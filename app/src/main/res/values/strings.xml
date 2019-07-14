@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ALC 4.0</string>
+    <string name="text_welcome_text">Welcome to ALC 4.0</string>
+    <string name="button_about_alc_text">About ALC</string>
+    <string name="button_my_profile_text">My Profile</string>
+    <string name="text_my_name_text">Shallom Kanyori</string>
+    <string name="text_my_track_text">Track: Android</string>
+    <string name="text_my_country_text">Country: Kenya</string>
+    <string name="text_my_email_text">Email: sthayuk2@gmail.com</string>
+    <string name="text_my_phone_number_text">Phone Number: 0727314514</string>
+</resources>
